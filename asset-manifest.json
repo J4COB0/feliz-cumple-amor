@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feliz-cumple-amor/static/css/main.5103cc1d.css",
+    "main.js": "/feliz-cumple-amor/static/js/main.7ac333ee.js",
+    "static/js/787.430150ae.chunk.js": "/feliz-cumple-amor/static/js/787.430150ae.chunk.js",
+    "index.html": "/feliz-cumple-amor/index.html",
+    "main.5103cc1d.css.map": "/feliz-cumple-amor/static/css/main.5103cc1d.css.map",
+    "main.7ac333ee.js.map": "/feliz-cumple-amor/static/js/main.7ac333ee.js.map",
+    "787.430150ae.chunk.js.map": "/feliz-cumple-amor/static/js/787.430150ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5103cc1d.css",
+    "static/js/main.7ac333ee.js"
+  ]
+}
